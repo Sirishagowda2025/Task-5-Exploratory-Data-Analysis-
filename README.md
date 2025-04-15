@@ -34,6 +34,7 @@ The Titanic dataset is not just about numbers—it's a historic tragedy with rea
 
 
 │
+├── Titanic.ipynb              # Main EDA Notebook
 ├── Titanic Dataset.csv        # Dataset used for analysis
 ├── titanic.py                 #Contain the python code used for the process
 ├── Exploratory Data Analysis on Titanic Dataset.pdf  # PDF report of findings
