@@ -94,7 +94,8 @@ The Titanic dataset is not just about numbers—it's a historic tragedy with rea
 
 ---
 
-🔮 Future Work – Machine Learning Extension
+## 🔮 Future Work – Machine Learning Extension
+
 As a next step, I plan to apply classification models (like Logistic Regression or Random Forest) to predict survival using this dataset. This EDA project has helped me understand key features, which will directly feed into the ML model development.
 I'm actively learning supervised ML techniques to build on this foundation.
 
